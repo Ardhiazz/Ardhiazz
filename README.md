@@ -4,9 +4,9 @@
 </p>
 
 ### Hi bro 👋 I'm [Ardhiaz]()
-> Selamat datang di github gua, sekedar iseng aja, ya selebihnya tau sendiri lah apa.
+> Selamat datang di github gua, sekedar iseng aja, ya selebihnya kepoin aja repository gue !
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=microsoft" alt="microsoft" />
 
 <div>
  <p>
