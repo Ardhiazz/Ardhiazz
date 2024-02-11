@@ -22,4 +22,4 @@ Contact gua : ✉️ oficiall787@gmail.com
 
 ### Static Github Gua! ⚡
 
-[![Ardiaz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhiazz&show_icons=true&count_private=true)](https://github.com/Ardhiazz)
+[![Ardiazz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhiazz&show_icons=true&count_private=true)](https://github.com/Ardhiazz)
