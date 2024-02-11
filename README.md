@@ -1,9 +1,9 @@
 <p align="center">
  <img width="200px" src="https://media1.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile Saya</h2>
+ <h2 align="center"></h2>
 </p>
 
-### Hi bro 👋 I'm [Ardhiaz]()
+### Hallo Bro And Sister! 👋 I'm [Ardhiaz]()
 > Selamat datang di github gua, sekedar iseng aja, ya selebihnya kepoin aja repository gue !
 
 <img src="https://camo.githubusercontent.com/5e669759dd6b0233a6a00cb56cf18f966366c6bc1262619f6ffd2a71f3f4e525/68747470733a2f2f692e696d6775722e636f6d2f496b644c4976752e676966" alt="Ardhiazz" />
