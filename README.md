@@ -4,8 +4,7 @@
 </p>
 
 ### Hallo Bro And Sister! 👋 I'm [Ardhiaz]()
-> Selamat datang di github gua, sekedar iseng aja, ya selebihnya kepoin aja repository gue !
-
+> Belajar Bareng Sukses Bareng !
 <img src="https://camo.githubusercontent.com/5e669759dd6b0233a6a00cb56cf18f966366c6bc1262619f6ffd2a71f3f4e525/68747470733a2f2f692e696d6775722e636f6d2f496b644c4976752e676966" alt="Ardhiazz" />
 
 <div>
